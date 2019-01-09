@@ -7,7 +7,7 @@ author: soumi
 
 # Create Azure Key Vault and attach a Vnet.
 
-[![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://azuredeploy.net/)
+[![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://deploy.azure.com/?repository=https://github.com/loklak/loklak_serverhttps://github.com/souravind2ms/ARMTemplates/tree/master/KeyVaultVnetIntegration/KeyVaultVnetIntegration?ptmpl=azuredeploy.parameters.json)
 
 <a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fsouravind2ms%2FARMTemplates%2Ftree%2Fmaster%2FKeyVaultVnetIntegration%2FKeyVaultVnetIntegration%2Fazuredeploy.json" target="_blank">
     <img src="http://armviz.io/visualizebutton.png"/>
