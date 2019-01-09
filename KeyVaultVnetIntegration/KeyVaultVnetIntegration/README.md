@@ -1,5 +1,12 @@
 # Create Azure Key Vault and attach a Vnet.
 
+---
+services: Azure Key Vault
+platforms: ARM Templates
+author: soumi
+
+---
+
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fgithub.com%2Fsouravind2ms%2FARMTemplates%2Ftree%2Fmaster%2FKeyVaultVnetIntegration%2FKeyVaultVnetIntegration%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
