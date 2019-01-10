@@ -1,8 +1,9 @@
 ---
 services: Azure Key Vault
 platforms: ARM Templates
-author: soumi
-
+author: Sourav Mishra
+email: sourav.ind2@gmail.com
+last updated on: 10th Jan 2019
 ---
 
 # Create Azure Key Vault and attach a Vnet.
